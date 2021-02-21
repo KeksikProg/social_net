@@ -159,7 +159,7 @@ DATABASES = {
     }
 }
 
-
+AUTH_USER_MODEL='main.Client'
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
 
